@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @86Paulo
-- 👀 I’m interested in web development
-- 🌱 I’m a Le Wagon alumni
+- 👀 I’m interested in web development and in keep on learnig  new and exciting things
+- 🌱 I’m a Le Wagon alumni from Lisbon
+- 
 
 <!---
 86Paulo/86Paulo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
