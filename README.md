@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @86Paulo
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Ruby on rails 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m a Le Wagon alumni
 
 <!---
 86Paulo/86Paulo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
