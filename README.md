@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paulo Araújo</h1>
-<h3 align="center">A junior frontend developer from Portugal</h3>
+<h3>A junior frontend developer from Portugal</h3>
 
 - 📫 How to reach me **www.linkedin.com/in/paulo-araujo86**
 
