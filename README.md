@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paulo Araújo</h1>
-<h3 align="center">A junior frontend developer from Portugal</h3>
+<h3>A junior frontend developer from Portugal</h3>
 
-- 🔭 I'm proud of participated in the development and production of [Urban Forage](https://www.urbanforage.xyz/)
+- 🔭 I'm proud of participated in the development and production of [Urban Forage](https://www.urbanforage.xyz/) as my final project in Le Wagon Bootcamp
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
