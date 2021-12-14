@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @86Paulo
-- 👀 I’m interested in web development and in keep on learnig  new and exciting things
-- 🌱 I’m a Le Wagon alumni from Lisbon
-- 
-
 <h1 align="center">Hi 👋, I'm Paulo Araújo</h1>
 <h3 align="center">A junior frontend developer from Portugal</h3>
 
